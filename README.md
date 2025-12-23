@@ -1,26 +1,65 @@
-# 📥 HamzxaDL Pro Max v1.0
+# HamzxaDL 🎬⬇️
 
-**HamzxaDL** هو تطبيق مكتبي متطور ومفتوح المصدر مصمم لتحميل مقاطع الفيديو والصوت من يوتيوب ومنصات أخرى بكل سهولة وبواجهة مستخدم عصرية تعتمد على مكتبة `CustomTkinter`.
+HamzxaDL is a modern **Windows desktop application** for downloading YouTube videos and extracting audio, delivered as a **standalone EXE**.
 
----
-
-## ✨ المميزات (Features)
-
-* **تحليل الروابط:** فحص فوري للروابط لجلب العنوان والصور المصغرة والحجم المتوقع.
-* **تعدد الصيغ:** يدعم التحميل بصيغة **MP4** للفيديو و **MP3** للصوت بجودات مختلفة.
-* **البحث المدمج:** محرك بحث داخلي يتيح لك العثور على الفيديوهات وتحميلها دون مغادرة التطبيق.
-* **دعم اللغات:** واجهة مستخدم كاملة باللغتين **العربية** و **الإنجليزية** مع دعم اتجاه النص (RTL/LTR).
-* **إدارة التحميل:** شريط تقدم دقيق (Progress Bar) مع خيار لإلغاء التحميل في أي وقت.
-* **تحديثات تلقائية:** فحص إصدار البرنامج ومقارنته بآخر إصدار متاح على السحابة.
+No Python, no setup, and no technical knowledge required — just run and use.
 
 ---
 
-## 🚀 التشغيل والتثبيت (Setup)
+## ✨ Features
 
-### المتطلبات (Prerequisites)
-يجب أن يكون لديك **Python 3.8** أو أحدث مثبتًا على جهازك.
+- Download YouTube videos in MP4
+- Extract audio as MP3
+- Built-in YouTube search
+- Video title and thumbnail preview
+- Estimated file size display
+- Live download progress with speed indicator
+- Cancel download at any time
+- Choose custom download folder
+- Arabic & English language support
+- Modern dark user interface
 
-### المكتبات المطلوبة (Dependencies)
-قم بتثبيت المكتبات اللازمة باستخدام الأمر التالي:
-```bash
-pip install customtkinter pillow yt-dlp requests
+---
+
+## 🖼️ Preview
+
+The app shows video information before downloading and provides real-time progress during the download process.
+
+---
+
+## 🚀 How to Use
+
+1. Download the **HamzxaDL.exe** file.
+2. Run the application.
+3. Paste a YouTube link or search inside the app.
+4. Choose video or audio format.
+5. Click **Download** and wait for completion.
+
+No installation required.
+
+---
+
+## 💻 Supported Systems
+
+- Windows 10
+- Windows 11
+
+---
+
+## 🔐 Notes
+
+- This application runs completely offline except during downloads.
+- Designed for personal and educational use.
+- No background services or startup tasks.
+
+---
+
+## 👨‍💻 Developer
+
+**Hamza Alfarhoud**
+
+---
+
+## 📜 License
+
+This project is provided as-is for personal and educational use.
