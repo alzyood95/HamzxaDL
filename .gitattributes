@@ -1,0 +1,24 @@
+# ================================
+# Binary Files
+# ================================
+*.exe binary
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# ================================
+# Python Source Code
+# ================================
+*.py text eol=lf
+
+# ================================
+# Documentation
+# ================================
+*.md text eol=lf
+*.txt text eol=lf
+
+# ================================
+# Linguist Configuration
+# ================================
+*.py linguist-language=Python
